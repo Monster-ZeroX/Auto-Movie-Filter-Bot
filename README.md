@@ -26,23 +26,23 @@
 * Added Force subscribe (Only channel subscribes can use the bot)
 * Ability to restrict groups(AUTH_GROUPS)
 
-## Installation
+## Installation 👇
 
-### Easy Way
+### Easy Way 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
 ### Hard Way
 
 
-## Thanks to 
+## Thanks to 💙
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
-## Support
+## Support ☎
 Contact Me On [Telegram](https://t.me/senuinfinity)
 
 [Update Channel](https://t.me/senuinfinity)
 
-## This Is Original Repo Link
+## This Is Original Repo Link 💖
 
 * Original [Repo](https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
 
