@@ -35,13 +35,16 @@
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
 
 
 ## Support
 Contact Me On [Telegram](https://t.me/senuinfinity)
 
 [Update Channel](https://t.me/senuinfinity)
+
+## This Is Original Repo Link
+
+* Original [Repo](https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
