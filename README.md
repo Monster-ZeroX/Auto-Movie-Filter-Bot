@@ -14,9 +14,8 @@
   </a>  
 </p>
 
-<center>
-  [![Tutorial](https://yt-embed.herokuapp.com/embed?v=62PNPsQwIZ8)](https://youtu.be/62PNPsQwIZ8)
-</center>  
+[![Tutorial](https://yt-embed.herokuapp.com/embed?v=62PNPsQwIZ8)](https://youtu.be/62PNPsQwIZ8)
+ 
 
 
 ## Added Features 💖
