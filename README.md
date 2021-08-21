@@ -10,11 +10,12 @@
   
   <a href="https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/SenuGamerBoy/Auto-Movie-Filter-Bot?label=Fork&style=social">
+    
+  [![Tutorial](https://yt-embed.herokuapp.com/embed?v=62PNPsQwIZ8)](https://youtu.be/62PNPsQwIZ8)  
 
   </a>  
 </p>
 
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=62PNPsQwIZ8)](https://youtu.be/62PNPsQwIZ8)
  
 
 
