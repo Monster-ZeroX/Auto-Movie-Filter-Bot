@@ -10,8 +10,6 @@
   
   <a href="https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/SenuGamerBoy/Auto-Movie-Filter-Bot?label=Fork&style=social">
-    
-  [![Tutorial](https://yt-embed.herokuapp.com/embed?v=62PNPsQwIZ8)](https://youtu.be/62PNPsQwIZ8)  
 
   </a>  
 </p>
@@ -48,6 +46,9 @@ Contact Me On [Telegram](https://t.me/senuinfinity)
 ## This Is Original Repo Link 💖
 
 * Original [Repo](https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
+
+## Full Tutorial
+* Tutorial Link [view on youtube](https://youtu.be/62PNPsQwIZ8)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
